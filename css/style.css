@@ -1,0 +1,39 @@
+body {
+	background-color: #6c008a;
+}
+h1 {
+	background-color: #0084ff
+;
+	color: #00058a;
+	padding: 40px;
+	text-align: center;
+}
+h3 {
+	background-color: #8c00ff
+;
+	color: #001c8a;
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	font-size: 20px
+}
+
+img {
+  padding: 40px;
+  max-width: 35%;
+  max-height: 35%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div {
+  font-size: 20px;
+  color: #a600ff;
+  background-color: #65008a;
+}
